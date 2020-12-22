@@ -1,0 +1,19 @@
+{
+  "name": "music-library-api",
+  "version": "1.0.0",
+  "description": "Project Name: Music Library API Description: A Music Library API. Stores information about artists, albums and songs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalFulcher/music-library-api.git"
+  },
+  "author": "Hal Fulcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalFulcher/music-library-api/issues"
+  },
+  "homepage": "https://github.com/HalFulcher/music-library-api#readme"
+}
